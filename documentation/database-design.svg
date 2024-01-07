@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+        PUBLIC "-//W3C//DTD SVG 1.1//EN"
+        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="74 47 1065 828" width="991px" height="781px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="459" y1="370" x2="449" y2="370" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="307" y1="96" x2="297" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="449" y1="370" x2="307" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="451.5" y1="370" x2="455.03553390593" y2="373.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="451.5" y1="370" x2="455.03553390593" y2="366.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="302" y1="96" x2="305.53553390593" y2="99.535533905933" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="302" y1="96" x2="305.53553390593" y2="92.464466094067" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="462" y1="157" x2="452" y2="157" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="307" y1="96" x2="297" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="452" y1="157" x2="307" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="454.5" y1="157" x2="458.03553390593" y2="160.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="454.5" y1="157" x2="458.03553390593" y2="153.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="302" y1="96" x2="305.53553390593" y2="99.535533905933" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="302" y1="96" x2="305.53553390593" y2="92.464466094067" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="843" y1="362" x2="833" y2="362" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="834" y1="92" x2="844" y2="92" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="833" y1="362" x2="834" y2="92" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="835.5" y1="362" x2="839.03553390593" y2="365.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="835.5" y1="362" x2="839.03553390593" y2="358.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="839" y1="92" x2="835.46446609407" y2="95.535533905933" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="839" y1="92" x2="835.46446609407" y2="88.464466094067" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="89" y1="303" x2="79" y2="303" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="79" y1="384" x2="89" y2="384" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="79" y1="303" x2="79" y2="384" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="81.5" y1="303" x2="85.035533905933" y2="306.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="81.5" y1="303" x2="85.035533905933" y2="299.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="84" y1="384" x2="80.464466094067" y2="387.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="84" y1="384" x2="80.464466094067" y2="380.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="89" y1="283" x2="79" y2="283" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="81" y1="96" x2="91" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="79" y1="283" x2="81" y2="96" style="stroke:#ff1f88;stroke-width:1;"/>
+   <line x1="81.5" y1="283" x2="85.035533905933" y2="286.53553390593" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="81.5" y1="283" x2="85.035533905933" y2="279.46446609407" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="86" y1="96" x2="82.464466094067" y2="99.535533905933" style="stroke:#ff1f88;stroke-width:2;"/>
+   <line x1="86" y1="96" x2="82.464466094067" y2="92.464466094067" style="stroke:#ff1f88;stroke-width:2;"/>
+
+   <rect width="206" height="20" x="91" y="66" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="80" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-imreading-books</text>
+   <rect width="206" height="20" x="91" y="86" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="100" style="fill:black;" font-family="Arial" font-size="16px">isbn</text>
+   <rect width="206" height="20" x="91" y="106" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="120" style="fill:black;" font-family="Arial" font-size="16px">author</text>
+   <rect width="206" height="20" x="91" y="126" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="140" style="fill:black;" font-family="Arial" font-size="16px">pages</text>
+   <rect width="206" height="20" x="91" y="146" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="160" style="fill:black;" font-family="Arial" font-size="16px">self_link</text>
+   <rect width="206" height="20" x="91" y="166" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="180" style="fill:black;" font-family="Arial" font-size="16px">thumbnail_url</text>
+   <rect width="206" height="20" x="91" y="186" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="96" y="200" style="fill:black;" font-family="Arial" font-size="16px">title</text>
+   <rect width="206" height="20" x="459" y="426" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="440" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-imreading-logs</text>
+   <rect width="206" height="20" x="459" y="446" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="460" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="459" y="466" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="480" style="fill:black;" font-family="Arial" font-size="16px">date</text>
+   <rect width="206" height="20" x="459" y="486" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="500" style="fill:black;" font-family="Arial" font-size="16px">favorite</text>
+   <rect width="206" height="20" x="459" y="506" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="520" style="fill:black;" font-family="Arial" font-size="16px">isbn</text>
+   <rect width="206" height="20" x="459" y="526" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="540" style="fill:black;" font-family="Arial" font-size="16px">log</text>
+   <rect width="206" height="20" x="459" y="546" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="560" style="fill:black;" font-family="Arial" font-size="16px">page</text>
+   <rect width="206" height="20" x="459" y="200" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="214" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-imreading-reading_data</text>
+   <rect width="206" height="20" x="459" y="220" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="234" style="fill:black;" font-family="Arial" font-size="16px">isbn</text>
+   <rect width="206" height="20" x="459" y="240" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="254" style="fill:black;" font-family="Arial" font-size="16px">current_page</text>
+   <rect width="206" height="20" x="459" y="260" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="274" style="fill:black;" font-family="Arial" font-size="16px">favorite</text>
+   <rect width="206" height="20" x="459" y="280" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="294" style="fill:black;" font-family="Arial" font-size="16px">finished_date</text>
+   <rect width="206" height="20" x="459" y="300" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="314" style="fill:black;" font-family="Arial" font-size="16px">rating</text>
+   <rect width="206" height="20" x="459" y="320" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="334" style="fill:black;" font-family="Arial" font-size="16px">started_date</text>
+   <rect width="206" height="20" x="459" y="340" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="354" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="206" height="20" x="459" y="360" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="464" y="374" style="fill:black;" font-family="Arial" font-size="16px">book_isbn</text>
+   <rect width="206" height="20" x="462" y="67" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="467" y="81" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-imreading-reviews</text>
+   <rect width="206" height="20" x="462" y="87" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="467" y="101" style="fill:black;" font-family="Arial" font-size="16px">isbn</text>
+   <rect width="206" height="20" x="462" y="107" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="467" y="121" style="fill:black;" font-family="Arial" font-size="16px">date</text>
+   <rect width="206" height="20" x="462" y="127" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="467" y="141" style="fill:black;" font-family="Arial" font-size="16px">review</text>
+   <rect width="206" height="20" x="462" y="147" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="467" y="161" style="fill:black;" font-family="Arial" font-size="16px">book_isbn</text>
+   <rect width="206" height="20" x="89" y="354" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="368" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-imreading-shelves</text>
+   <rect width="206" height="20" x="89" y="374" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="388" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="89" y="394" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="408" style="fill:black;" font-family="Arial" font-size="16px">shelf_name</text>
+   <rect width="206" height="20" x="96" y="693" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="707" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-menu</text>
+   <rect width="206" height="20" x="96" y="713" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="727" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="96" y="733" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="747" style="fill:black;" font-family="Arial" font-size="16px">display_order</text>
+   <rect width="206" height="20" x="96" y="753" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="767" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="206" height="20" x="96" y="773" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="787" style="fill:black;" font-family="Arial" font-size="16px">show_in_menu</text>
+   <rect width="206" height="20" x="96" y="793" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="101" y="807" style="fill:black;" font-family="Arial" font-size="16px">url</text>
+   <rect width="206" height="20" x="94" y="518" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="532" style="fill:#fff;" font-family="Arial" font-size="16px"> cms-pages</text>
+   <rect width="206" height="20" x="94" y="538" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="552" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="94" y="558" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="572" style="fill:black;" font-family="Arial" font-size="16px">content</text>
+   <rect width="206" height="20" x="94" y="578" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="592" style="fill:black;" font-family="Arial" font-size="16px">created_date</text>
+   <rect width="206" height="20" x="94" y="598" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="612" style="fill:black;" font-family="Arial" font-size="16px">is_public</text>
+   <rect width="206" height="20" x="94" y="618" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="632" style="fill:black;" font-family="Arial" font-size="16px">modified_date</text>
+   <rect width="206" height="20" x="94" y="638" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="99" y="652" style="fill:black;" font-family="Arial" font-size="16px">title</text>
+   <rect width="206" height="20" x="843" y="252" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="266" style="fill:#fff;" font-family="Arial" font-size="16px"> refresh_tokens</text>
+   <rect width="206" height="20" x="843" y="272" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="286" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="843" y="292" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="306" style="fill:black;" font-family="Arial" font-size="16px">expiration</text>
+   <rect width="206" height="20" x="843" y="312" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="326" style="fill:black;" font-family="Arial" font-size="16px">token</text>
+   <rect width="206" height="20" x="843" y="332" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="346" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="206" height="20" x="843" y="352" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="848" y="366" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="206" height="20" x="89" y="253" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="267" style="fill:#fff;" font-family="Arial" font-size="16px"> shelved_books</text>
+   <rect width="206" height="20" x="89" y="273" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="287" style="fill:black;" font-family="Arial" font-size="16px">books_isbn</text>
+   <rect width="206" height="20" x="89" y="293" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="94" y="307" style="fill:black;" font-family="Arial" font-size="16px">shelves_shelf_id</text>
+   <rect width="206" height="20" x="844" y="62" style="fill:#2edaff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="76" style="fill:#fff;" font-family="Arial" font-size="16px"> users</text>
+   <rect width="206" height="20" x="844" y="82" style="fill:#ff63ac;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="96" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="206" height="20" x="844" y="102" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="116" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="206" height="20" x="844" y="122" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="136" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="206" height="20" x="844" y="142" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="156" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="206" height="20" x="844" y="162" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="176" style="fill:black;" font-family="Arial" font-size="16px">user_role</text>
+   <rect width="206" height="20" x="844" y="182" style="fill:#fff;stroke:lightgray;"/>
+   <text width="206" height="20" x="849" y="196" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+</svg>
